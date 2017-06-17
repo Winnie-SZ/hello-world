@@ -6,3 +6,5 @@ I hope it will be a good journey.
 
 Thank you very much.
 Have a good time.
+
+Add, try to use git in the linux system.
